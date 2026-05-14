@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Japanese Book Translator</string>
+    <string name="subtitle">Chụp trang sách tiếng Nhật → tự động OCR + dịch sang tiếng Việt → xuất PDF</string>
+
+    <string name="btn_capture">Chụp trang sách</string>
+    <string name="btn_export_pdf">Xuất PDF tiếng Việt</string>
+    <string name="btn_clear">Xoá tất cả trang đã chụp</string>
+    <string name="btn_done">Xong</string>
+    <string name="btn_back">Quay lại</string>
+    <string name="btn_delete_page">Xoá trang này</string>
+
+    <string name="page_count_zero">Số trang đã chụp: 0</string>
+    <string name="page_count_format">Số trang đã chụp: %1$d</string>
+
+    <string name="capturing">Đang chụp…</string>
+    <string name="processing">Đang nhận diện chữ Nhật và dịch sang tiếng Việt…</string>
+    <string name="captured_ok">Đã thêm 1 trang.</string>
+    <string name="capture_failed">Chụp thất bại</string>
+    <string name="processing_failed">Lỗi xử lý: %1$s</string>
+    <string name="exporting_pdf">Đang tạo PDF…</string>
+    <string name="export_done">Tạo PDF xong.</string>
+    <string name="export_failed">Xuất PDF lỗi: %1$s</string>
+
+    <string name="no_pages">Bạn chưa chụp trang nào.</string>
+    <string name="open_pdf_with">Mở PDF bằng…</string>
+
+    <string name="clear_confirm_title">Xoá tất cả?</string>
+    <string name="clear_confirm_message">Bạn sẽ xoá toàn bộ ảnh và bản dịch hiện có. Tiếp tục?</string>
+    <string name="delete_page_title">Xoá trang này?</string>
+    <string name="delete_page_msg">Trang này sẽ bị xoá khỏi danh sách.</string>
+    <string name="action_delete">Xoá</string>
+    <string name="action_cancel">Huỷ</string>
+
+    <string name="camera_permission_required">App cần quyền camera để chụp trang sách.</string>
+    <string name="shutter_desc">Nút chụp</string>
+    <string name="scanned_image_desc">Ảnh trang đã chụp</string>
+    <string name="label_vietnamese">Bản dịch tiếng Việt</string>
+    <string name="label_japanese">Văn bản tiếng Nhật (OCR)</string>
+</resources>
